@@ -1,5 +1,5 @@
 # 💫 About Me:
-HEY!! I am Aniket<br>🔭 I’m currently working on MERN stack projects with MySQL<br>🤝 I’m looking to collaborate on web apps, open-source, and hackathon projects<br>🌱 I’m currently learning React, Node.js, and UI/UX design in Figma
+HEY!! I am Aniket<br>🔭 I’m currently working on Web Development<br>🤝 I’m looking to collaborate on web apps, open-source, and hackathon projects<br>🌱 I’m currently learning React, Node.js, and UI/UX design in Figma
 
 
 ## 🌐 Socials:
